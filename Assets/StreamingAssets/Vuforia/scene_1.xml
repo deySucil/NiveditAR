@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pic17" size="6.000000 4.500000" />
+    <ImageTarget name="pic16" size="6.000000 4.500000" />
+    <ImageTarget name="pic15" size="6.000000 4.500000" />
+    <ImageTarget name="pic_14" size="6.000000 4.500000" />
+    <ImageTarget name="pic_12" size="6.000000 4.500000" />
+    <ImageTarget name="pic_11" size="6.000000 4.500000" />
+    <ImageTarget name="pic_8" size="6.000000 4.500000" />
+    <ImageTarget name="pic_7" size="6.000000 4.500000" />
+    <ImageTarget name="pic_6" size="6.000000 4.500000" />
+    <ImageTarget name="pic_5" size="6.000000 4.500000" />
+    <ImageTarget name="pic_4" size="6.000000 4.500000" />
+    <ImageTarget name="pic_3" size="6.000000 4.500000" />
+    <ImageTarget name="pic_2" size="6.000000 4.500000" />
+  </Tracking>
+</QCARConfig>
